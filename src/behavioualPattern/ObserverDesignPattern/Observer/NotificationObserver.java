@@ -1,4 +1,4 @@
-package ObserverDesignPattern.Observer;
+package behavioualPattern.ObserverDesignPattern.Observer;
 
 public interface NotificationObserver {
     public void update();

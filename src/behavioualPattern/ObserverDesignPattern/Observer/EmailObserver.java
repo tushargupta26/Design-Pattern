@@ -1,6 +1,4 @@
-package ObserverDesignPattern.Observer;
-
-import ObserverDesignPattern.Observable.StockObservable;
+package behavioualPattern.ObserverDesignPattern.Observer;
 
 public class EmailObserver implements NotificationObserver{
     String emailId;
