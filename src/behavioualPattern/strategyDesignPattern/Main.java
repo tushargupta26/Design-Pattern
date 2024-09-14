@@ -1,6 +1,6 @@
-package strategyDesignPattern;
+package behavioualPattern.strategyDesignPattern;
 
-import strategyDesignPattern.Strategy.NormalVehicle;
+import behavioualPattern.strategyDesignPattern.Strategy.NormalVehicle;
 
 public class Main {
 
